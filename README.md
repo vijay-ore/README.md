@@ -8,7 +8,6 @@
 - 📫 Reach me at: orevijaykumar2337@gmail.com 
 - 🥅 2023 Goals: Become Full Stack (MERN) Web Developer
 
-
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
