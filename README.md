@@ -10,7 +10,8 @@
 
 
 
-<p align="left">  <img src="(https://komarev.com/ghpvc/?username=vijayore&label=Profile%20views&color=0e75b6&style=flat)" alt="vijayore" />  </p>
+<p align="left">  <img src="[https://komarev.com/ghpvc/?username=vijayore&label=Profile%20views&color=0e75b6&style=flat]" alt="vijayore" />  </p>
+
 
 <br />
 <h3 align="left">Connect with me:</h3>
